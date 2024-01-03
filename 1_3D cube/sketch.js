@@ -11,5 +11,7 @@ function draw() {
 
   orbitControl();
   rectMode(CENTER);
-  rect(0, 0,400, 400);
+  //rect(0, 0,400, 400);
+  //rect(0,0,400, 400, 400);
+  box(400, 400, 400);
 }
